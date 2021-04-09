@@ -1,0 +1,13 @@
+body {
+    background:
+    linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnBnfIliuFiluzOxZn29S4Akbc1RlMADA1Nfxuy8amYmpESV7DBjIa0GTq9fR74BcAG74&usqp=CAU);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
